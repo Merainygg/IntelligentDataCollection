@@ -269,8 +269,7 @@ void setup(){
 }
 
 void loop() {
-  // ws.cleanupClients();
-//   digitalWrite(ledPin, ledState);0
+
   int count = 0;
   int arr[] = {1, 2, 3, 4, 5, 6, 7};
   while (count < 7)
